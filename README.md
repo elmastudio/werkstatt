@@ -4,7 +4,7 @@ Werkstatt is a minimal responsive photography blog theme with a horizontal scrol
 
 By [Elmastudio](https://www.elmastudio.de/en/).
 
-- **Version:** 1.0.9
+- **Version:** 1.0.10
 - **Theme page:** https://www.elmastudio.de/en/themes/werkstatt/
 - **Documentation:** [English](https://www.elmastudio.de/en/docs/werkstatt/) / [German](https://www.elmastudio.de/doks/werkstatt/)
 
@@ -16,6 +16,10 @@ Download this repository as a ZIP and upload it in **Appearance → Themes → A
 cd wp-content/themes
 git clone https://github.com/elmastudio/werkstatt.git
 ```
+
+## Updates
+
+Install the Git Updater plugin (https://git-updater.com/) and WordPress will offer new versions of this theme as regular theme updates, straight from GitHub.
 
 ## Status
 

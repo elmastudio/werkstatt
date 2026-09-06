@@ -3,6 +3,9 @@ For a detailed theme documentation please visit:
 https://www.elmastudio.de/en/docs/werkstatt/ (English)
 https://www.elmastudio.de/doks/werkstatt/ (German)
 
+Updates:
+Install the Git Updater plugin (https://git-updater.com/) and WordPress will offer new versions of this theme as regular theme updates, straight from GitHub.
+
 Changelog:
 
 Version 1.0.10 (25/08/2026)
